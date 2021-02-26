@@ -14,7 +14,7 @@ public class Main {
             System.out.print("Digite um número:");
             entrada = sc.nextInt();
 
-            /* Verifica se a entrada eh positiva*/
+            /* Verifica se a entrada é positiva*/
             if(entrada >= 0){
                 soma += entrada;
             }else{
